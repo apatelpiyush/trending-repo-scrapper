@@ -23,11 +23,11 @@ The script generates a file named **`Data_File.csv`** with repository details.
 ### 📈 Graph Previews
 - **Language Distribution**
   
-  ![Graph1](Graph1.png)
+  ![Graph1](Output)(Graph1.png)
 
 - **Stars vs. Language**
   
-  ![Graph2](Graph2.png)
+  ![Graph2](Output)(Graph2.png)
 
 ## 🛠️ Installation
 Clone this repository:
