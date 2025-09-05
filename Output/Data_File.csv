@@ -1,0 +1,16 @@
+,Repo Name,Language,Stars,Description
+0,bytebot,TypeScript,5190,"Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment."
+1,BitNet,Python,21428,Official inference framework for 1-bit LLMs
+2,trivy,Go,28483,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
+3,trufflehog,Go,20741,"Find, verify, and analyze leaked credentials"
+4,v2ray-agent,Shell,16955,Xray、Tuic、hysteria2、sing-box 八合一一键脚本
+5,nuclear,TypeScript,14288,Streaming music player that finds free music for you
+6,evolution-api,TypeScript,5145,Evolution API is an open-source WhatsApp integration API
+7,awesome-mcp-servers, ,4311,Awesome MCP Servers - A curated list of Model Context Protocol servers
+8,parlant,Python,8896,LLM agents built for control. Designed for real-world use. Deployed in minutes.
+9,ottomator-agents,Python,3826,All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
+10,kestra,Java,20812,"⚡ Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation."
+11,FinGPT,Jupyter Notebook,17300,FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace.
+12,ChinaTextbook,Roff,48454,所有小初高、大学PDF教材。
+13,airflow,Python,41961,"Apache Airflow - A platform to programmatically author, schedule, and monitor workflows"
+14,wazuh,C,13322,Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
